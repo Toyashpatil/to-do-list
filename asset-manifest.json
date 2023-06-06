@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/to-do-list/static/js/main.f95f1210.js",
+    "index.html": "/to-do-list/index.html",
+    "main.f95f1210.js.map": "/to-do-list/static/js/main.f95f1210.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.f95f1210.js"
+  ]
+}
